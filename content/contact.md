@@ -8,4 +8,10 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+- Portfolio: [muharram.dev](https://muharram.dev)
+
+- GitHub: [ahmedOmuharram](https://github.com/ahmedOmuharram)
+
+- Email: [ahmed.o.muharram@gmail.com](mailto:ahmed.o.muharram@gmail.com)
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-muharram)
