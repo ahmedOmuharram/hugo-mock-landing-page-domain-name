@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on Motimate</title>
+    <link>https://ahmedomuharram.github.io/hugo-mock-landing-page/tags/featured/</link>
+    <description>Recent content in Featured on Motimate</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Made by Ahmed Muharram, Fall 2025</copyright>
+    <atom:link href="https://ahmedomuharram.github.io/hugo-mock-landing-page/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Motimate 🚀</title>
+      <link>https://ahmedomuharram.github.io/hugo-mock-landing-page/page/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ahmedomuharram.github.io/hugo-mock-landing-page/page/getting-started/</guid>
+      <description>&lt;h1 id=&#34;getting-started-with-motimate&#34;&gt;Getting Started with Motimate&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to Motimate! This guide will help you begin your journey of transforming goals into achievements through our gamified platform.&lt;/p&gt;&#xA;&lt;h2 id=&#34;creating-your-account&#34;&gt;Creating Your Account&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Click the &amp;ldquo;Get Started&amp;rdquo; button on our homepage&lt;/li&gt;&#xA;&lt;li&gt;Choose a username that represents your journey&lt;/li&gt;&#xA;&lt;li&gt;Set up your profile with a motivational quote and avatar&lt;/li&gt;&#xA;&lt;li&gt;Select your initial focus areas (fitness, meditation, learning, etc.)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;setting-up-your-first-goals&#34;&gt;Setting Up Your First Goals&lt;/h2&gt;&#xA;&lt;p&gt;Break down your larger goals into manageable daily tasks:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
