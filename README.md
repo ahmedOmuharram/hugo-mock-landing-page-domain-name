@@ -1,5 +1,5 @@
 # Motimate
-Autodeployed mock landing page for CIS 3500 at the University of Pennsylvania.
+Autodeployed mock landing page with a domain name for CIS 3500 at the University of Pennsylvania.
 
 ## About
 Motimate is a gamified habit tracking and motivation platform that helps you transform your goals into achievements. The platform combines several key features:
@@ -13,7 +13,7 @@ Motimate is a gamified habit tracking and motivation platform that helps you tra
 - Smart Features: Personalized notifications, detailed progress analytics, and AI-driven content suggestions to help you stay motivated and consistent with your goals.
 
 ## How to use
-View at [https://ahmedomuharram.github.io/hugo-mock-landing-page/](https://ahmedomuharram.github.io/hugo-mock-landing-page/)
+View at [https://ahmedomuharram.github.io/hugo-mock-landing-page-domain-name/](https://ahmedomuharram.github.io/hugo-mock-landing-page-domain-name/)
 
 ## Workflow Auto Deployment
 
