@@ -37,12 +37,6 @@ enableEmoji = true
 [permalinks]
 #  post = "/post/:title/"
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    languageCode = "en"
-    weight = 1
-
 [module]
   [module.hugoVersion]
     extended = true
