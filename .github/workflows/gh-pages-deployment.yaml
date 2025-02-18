@@ -2,6 +2,8 @@
 ## Build and Deploy Hugo Website to GitHub Pages
 ## Author: Jérémie Lumbroso <lumbroso@seas.upenn.edu>
 ## Date: 2024-02-24
+## Modified by Ahmed Muharram
+## Date: 2025-02-17
 #######################################################
 
 name: 🏗️ Build and Deploy GitHub Pages
@@ -20,6 +22,10 @@ jobs:
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      # Step to fetch Hugo modules (themes, etc.)
+      - name: 🧩 Fetch Hugo Modules
+        run: hugo mod get
 
       - name: 🛠️ Initialize Hugo Environment
         uses: peaceiris/actions-hugo@v2.6.0
