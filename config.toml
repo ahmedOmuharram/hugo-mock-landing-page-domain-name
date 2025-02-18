@@ -10,12 +10,6 @@ languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    languageCode = "en"
-    weight = 1
-
 theme = "hugo-bootstrap-theme"
 
 disableHugoGeneratorInject = true
