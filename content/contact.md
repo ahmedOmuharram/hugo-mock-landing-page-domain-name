@@ -15,3 +15,5 @@ menu:
 - Email: [ahmed.o.muharram@gmail.com](mailto:ahmed.o.muharram@gmail.com)
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-muharram)
+
+- [Open an issue](https://github.com/ahmedomuharram/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
