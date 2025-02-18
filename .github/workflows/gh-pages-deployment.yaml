@@ -23,6 +23,10 @@ jobs:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Confirm submodules are fetched
+        run: ls -la
+        working-directory: ./themes/hugo-bootstrap-theme
+
       # Step to fetch Hugo modules (themes, etc.)
       - name: 🛠️ Initialize Hugo Environment
         uses: peaceiris/actions-hugo@v2.6.0
