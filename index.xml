@@ -1,42 +1,257 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Motimate</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/</link><description>Recent content on Motimate</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed | Made by Ahmed Muharram, Fall 2025</copyright><lastBuildDate>Tue, 18 Feb 2025 05:00:39 +0000</lastBuildDate><atom:link href="https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to Motimate</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/welcome-to-motimate/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/welcome-to-motimate/</guid><description>Transform Your Journey Ever wondered why some games keep you engaged for hours while building healthy habits feels like a chore? At Motimate, we&amp;rsquo;ve cracked the code by bringing the engaging elements of gaming into your personal development journey.
-The Power of Gamified Progress Traditional habit tracking can feel monotonous. That&amp;rsquo;s why we&amp;rsquo;ve revolutionized the experience by:
-Earning Points: Every completed task and maintained streak adds to your score Weekly Challenges: Join community-wide competitions to stay motivated Achievement Badges: Unlock special rewards for hitting milestones Progress Analytics: Visual insights into your consistency and growth Community-Driven Motivation You&amp;rsquo;re not alone on this journey.</description></item><item><title>Hugo v0.119.0</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-119/</link><pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-119/</guid><description>{ .img-fluid .mb-5}
-This version is built with Go 1.21.1 which contains some relevant security fixes for the html/template package, see Issue 62196 and Issue 62197. This is the main reason Hugo 0.119.0 is released sooner rather than later. But this release also comes with a dependency refresh and some useful image processing improvements:
-A new general-purpose Process method and filter. A new Opacity filter.
-Release Notes on GitHub.</description></item><item><title>Bootstrap 5.3.0</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-3-0/</link><pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-3-0/</guid><description>{ .img-fluid }
-It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!
-On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases.</description></item><item><title>Hugo v0.100.2</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-100/</link><pubDate>Wed, 08 Jun 2022 00:00:00 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-100/</guid><description>{ .img-fluid .mb-5 }
-This release is mostly motivated by the fix for the panic experienced by people having blackfriday configured as defaultMarkdownHandler (#9968). The Blackfriday support was removed in Hugo v0.100.0 after being deprecated with a warning for a long time.
-v0.100.1 fix panic with markdownify/RenderString with shortcode on Page with no content file.
-$page.RenderString (see #6703) finally supports shortcodes, and shortcode improvements is the main theme in Hugo 0.</description></item><item><title>Hugo Bootstrap Theme alpha</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-bootstrap-theme/</link><pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-bootstrap-theme/</guid><description>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.
-Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
-🛡️ Security aware
-Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
-⚡ Fast by default
-Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.</description></item><item><title>Hugo v0.99.1</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-99/</link><pubDate>Wed, 18 May 2022 00:00:00 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-99/</guid><description>{ .img-fluid .mb-5 }
-Fix server regression for multihost sites (multiple languages with different baseURLs).
-Release Notes on GitHub.</description></item><item><title>Bootstrap 5.2.0 beta</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</link><pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</guid><description>{ .img-fluid }
-It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta1 is here! This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.
-Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. Keep reading for details.</description></item><item><title>About</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/about/</guid><description>About Us Made with ❤️ by the Hugo Bootstrap Theme team.</description></item><item><title>Bootstrap Carousel 🎠</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-carousel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-carousel/</guid><description>Bootstrap Carousel A slideshow component for cycling through elements—images or slides of text — like a carousel.
-See Carousel documentation.</description></item><item><title>Bootstrap Components ✨</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-components/</guid><description>Bootstrap Components Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page.
-Accordion See Accordion documentation.
-Alert See Alert documentation.
-Badge Rounded pill
-See Badge documentation.
-Button Primary Secondary Success Danger Warning Info Light Dark
-Link
-See Button documentation.
-Card See Card documentation.
-List group See List group documentation.
-Creating your own Read the customize components page to learn how build your own components.</description></item><item><title>Code of Conduct</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</guid><description>Contributor Covenant Code of Conduct Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</description></item><item><title>Contact</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/contact/</guid><description>Contact Portfolio: muharram.dev
-GitHub: ahmedOmuharram
-Email: ahmed.o.muharram@gmail.com
-LinkedIn: LinkedIn
-Open an issue on GitHub.</description></item><item><title>Getting Started with Motimate 🚀</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/getting-started/</guid><description>Getting Started with Motimate Welcome to Motimate! This guide will help you begin your journey of transforming goals into achievements through our gamified platform.
-Creating Your Account Click the &amp;ldquo;Get Started&amp;rdquo; button on our homepage Choose a username that represents your journey Set up your profile with a motivational quote and avatar Select your initial focus areas (fitness, meditation, learning, etc.) Setting Up Your First Goals Break down your larger goals into manageable daily tasks:</description></item><item><title>Hugo Front Matter 🦉</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/hugo-front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/hugo-front-matter/</guid><description>Hugo allows you to add front matter in yaml, toml, or json to your content files. Read on to know more about predefined and user-defined front matter variables.</description></item><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</guid><description>Markdown Cheat Sheet Hugo has excellent Markdown support out of the box. By default, Hugo uses the Goldmark Markdown processor which is fully CommonMark-compliant. See the configuration instructions to learn more about the extensions you can configure.
-Overview You can refer to the table below for an overview of basic markdown syntax:
-TASK MARKDOWN SYNTAX Heading 1 # Heading 2 ## Heading 3 ### Italics *italics* Bold **Bold** Strike ~~strike~~ Blockquote &amp;gt; Links [link name](https://link.</description></item><item><title>Privacy Policy</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</guid><description>Privacy Policy TL;DR: We do not use cookies and we do not collect any personal data.
-Website visitors No personal information is collected. No information is stored in the browser. No information is shared with, sent to or sold to third-parties. No information is shared with advertising companies. No information is mined and harvested for personal and behavioral trends. No information is monetized. Information we collect and what we use it for The server hosting this site can collect the following information:</description></item><item><title>Security Best Practices 🔒</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/security-best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/security-best-practices/</guid><description>Security Best Practices Improve code health of your web page following these best practices.
-Use HTTPS All websites should be protected with HTTPS, even ones that don&amp;rsquo;t handle sensitive data. HTTPS prevents intruders from tampering with or passively listening in on the communications between your site and your users.
-External Links When you link to a page on another site using the target=&amp;quot;_blank&amp;quot; attribute, you can expose your site to performance and security issues:</description></item><item><title>Sobre</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/about.pt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/about.pt/</guid><description>Sobre nós Feito com ❤️ pela equipa Hugo Bootstrap Theme.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Motimate</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/</link><description>Recent content on Motimate</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed | Made by Ahmed Muharram, Fall 2025</copyright><lastBuildDate>Tue, 18 Feb 2025 17:24:39 +0000</lastBuildDate><atom:link href="https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to Motimate</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/welcome-to-motimate/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/welcome-to-motimate/</guid><description>&lt;h2 id="transform-your-journey">Transform Your Journey&lt;/h2>
+&lt;p>Ever wondered why some games keep you engaged for hours while building healthy habits feels like a chore? At Motimate, we&amp;rsquo;ve cracked the code by bringing the engaging elements of gaming into your personal development journey.&lt;/p>
+&lt;h2 id="the-power-of-gamified-progress">The Power of Gamified Progress&lt;/h2>
+&lt;p>Traditional habit tracking can feel monotonous. That&amp;rsquo;s why we&amp;rsquo;ve revolutionized the experience by:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Earning Points&lt;/strong>: Every completed task and maintained streak adds to your score&lt;/li>
+&lt;li>&lt;strong>Weekly Challenges&lt;/strong>: Join community-wide competitions to stay motivated&lt;/li>
+&lt;li>&lt;strong>Achievement Badges&lt;/strong>: Unlock special rewards for hitting milestones&lt;/li>
+&lt;li>&lt;strong>Progress Analytics&lt;/strong>: Visual insights into your consistency and growth&lt;/li>
+&lt;/ul>
+&lt;h2 id="community-driven-motivation">Community-Driven Motivation&lt;/h2>
+&lt;p>You&amp;rsquo;re not alone on this journey. Our platform connects you with like-minded individuals who:&lt;/p></description></item><item><title>Hugo v0.119.0</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-119/</link><pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-119/</guid><description>&lt;p>&lt;img src="hugo-logo.svg" alt="Hugo">
+{ .img-fluid .mb-5}&lt;/p>
+&lt;p>This version is built with Go 1.21.1 which contains some relevant security fixes for the html/template package, see &lt;a href="https://github.com/golang/go/issues/62196" target="_blank" rel="noopener">Issue 62196&lt;/a> and &lt;a href="https://github.com/golang/go/issues/62197" target="_blank" rel="noopener">Issue 62197&lt;/a>. This is the main reason Hugo 0.119.0 is released sooner rather than later. But this release also comes with a dependency refresh and some useful image processing improvements:&lt;/p>
+&lt;p>A new general-purpose &lt;a href="https://gohugo.io/content-management/image-processing/#process" target="_blank" rel="noopener">Process&lt;/a> method and filter.
+A new &lt;a href="https://gohugo.io/functions/images/#opacity" target="_blank" rel="noopener">Opacity&lt;/a> filter.&lt;/p>
+&lt;p>&lt;a href="https://github.com/gohugoio/hugo/releases" target="_blank" rel="noopener">Release Notes on GitHub&lt;/a>.&lt;/p></description></item><item><title>Bootstrap 5.3.0</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-3-0/</link><pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-3-0/</guid><description>&lt;p>&lt;img src="bootstrap-5-3.png" alt="Bootstrap 5 3">
+{ .img-fluid }&lt;/p>
+&lt;blockquote>
+&lt;p>It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!&lt;/p>&lt;/blockquote>
+&lt;p>On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases. Keep reading to learn everything that’s &lt;a href="https://blog.getbootstrap.com/2023/05/30/bootstrap-5-3-0/" target="_blank" rel="noopener">new in v5.3.0&lt;/a>.&lt;/p></description></item><item><title>Hugo v0.100.2</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-100/</link><pubDate>Wed, 08 Jun 2022 00:00:00 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-100/</guid><description>&lt;p>&lt;img src="hugo-logo.svg" alt="Hugo">
+{ .img-fluid .mb-5 }&lt;/p>
+&lt;p>This release is mostly motivated by the fix for the panic experienced by people having blackfriday configured as defaultMarkdownHandler (&lt;a href="https://github.com/gohugoio/hugo/issues/9968" target="_blank" rel="noopener">#9968&lt;/a>). The Blackfriday support was removed in Hugo v0.100.0 after being deprecated with a warning for a long time.&lt;/p>
+&lt;p>v0.100.1 fix panic with markdownify/RenderString with shortcode on Page with no content file.&lt;/p>
+&lt;p>$page.RenderString (see &lt;a href="https://github.com/gohugoio/hugo/issues/6703" target="_blank" rel="noopener">#6703&lt;/a>) finally supports shortcodes, and shortcode improvements is the main theme in Hugo 0.100.0.&lt;/p></description></item><item><title>Hugo Bootstrap Theme alpha</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-bootstrap-theme/</link><pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-bootstrap-theme/</guid><description>&lt;blockquote>
+&lt;p>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&lt;/p>&lt;/blockquote>
+&lt;p>Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>🛡️ Security aware&lt;/p>
+&lt;p>Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>⚡ Fast by default&lt;/p>
+&lt;p>Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.&lt;/p></description></item><item><title>Hugo v0.99.1</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-99/</link><pubDate>Wed, 18 May 2022 00:00:00 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/hugo-v0-99/</guid><description>&lt;p>&lt;img src="hugo-logo.svg" alt="Hugo">
+{ .img-fluid .mb-5 }&lt;/p>
+&lt;p>Fix server regression for multihost sites (multiple languages with different baseURLs).&lt;/p>
+&lt;p>&lt;a href="https://github.com/gohugoio/hugo/releases" target="_blank" rel="noopener">Release Notes on GitHub&lt;/a>.&lt;/p></description></item><item><title>Bootstrap 5.2.0 beta</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</link><pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</guid><description>&lt;p>&lt;img src="bootstrap-5-2-0-beta.png" alt="Bootstrap 5 2 0 Beta">
+{ .img-fluid }&lt;/p>
+&lt;blockquote>
+&lt;p>It’s the biggest release since v5 itself—&lt;strong>Bootstrap v5.2.0-beta1 is here!&lt;/strong> This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&lt;/p>&lt;/blockquote>
+&lt;p>Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. &lt;a href="https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/" target="_blank" rel="noopener">Keep reading for details&lt;/a>.&lt;/p></description></item><item><title>About</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/about/</guid><description>&lt;h1 id="about-us">About Us&lt;/h1>
+&lt;p>Made with ❤️ by the &lt;em>Hugo Bootstrap Theme&lt;/em> &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors" target="_blank" rel="noopener">team&lt;/a>.&lt;/p></description></item><item><title>Bootstrap Carousel 🎠</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-carousel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-carousel/</guid><description>&lt;h1 id="bootstrap-carousel">Bootstrap Carousel&lt;/h1>
+&lt;p>A slideshow component for cycling through elements—images or slides of text — like a carousel.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/carousel/" target="_blank" rel="noopener">Carousel documentation&lt;/a>.&lt;/p></description></item><item><title>Bootstrap Components ✨</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/bootstrap-components/</guid><description>&lt;h1 id="bootstrap-components">Bootstrap Components&lt;/h1>
+&lt;p>Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page.&lt;/p>
+&lt;hr>
+&lt;h2 id="accordion">Accordion&lt;/h2>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/accordion/" target="_blank" rel="noopener">Accordion documentation&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h2 id="alert">Alert&lt;/h2>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>See &lt;a href="https://getbootstrap.com/docs/5.3/components/alerts/" target="_blank" rel="noopener">Alert documentation&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h2 id="badge">Badge&lt;/h2>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;!-- raw HTML omitted -->Rounded pill&lt;!-- raw HTML omitted -->&lt;/p></description></item><item><title>Code of Conduct</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/code-of-conduct/</guid><description>&lt;h1 id="contributor-covenant-code-of-conduct">Contributor Covenant Code of Conduct&lt;/h1>
+&lt;h2 id="our-pledge">Our Pledge&lt;/h2>
+&lt;p>We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, caste, color, religion, or sexual
+identity and orientation.&lt;/p>
+&lt;p>We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.&lt;/p></description></item><item><title>Contact</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Portfolio: &lt;a href="https://muharram.dev" target="_blank" rel="noopener">muharram.dev&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>GitHub: &lt;a href="https://github.com/ahmedOmuharram" target="_blank" rel="noopener">ahmedOmuharram&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Email: &lt;a href="mailto:ahmed.o.muharram@gmail.com">ahmed.o.muharram@gmail.com&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>LinkedIn: &lt;a href="https://www.linkedin.com/in/ahmed-muharram" target="_blank" rel="noopener">LinkedIn&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/ahmedomuharram/hugo-mock-landing-page-autodeployed/issues/new" target="_blank" rel="noopener">Open an issue&lt;/a> on GitHub.&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Getting Started with Motimate 🚀</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/getting-started/</guid><description>&lt;h1 id="getting-started-with-motimate">Getting Started with Motimate&lt;/h1>
+&lt;p>Welcome to Motimate! This guide will help you begin your journey of transforming goals into achievements through our gamified platform.&lt;/p>
+&lt;h2 id="creating-your-account">Creating Your Account&lt;/h2>
+&lt;ol>
+&lt;li>Click the &amp;ldquo;Get Started&amp;rdquo; button on our homepage&lt;/li>
+&lt;li>Choose a username that represents your journey&lt;/li>
+&lt;li>Set up your profile with a motivational quote and avatar&lt;/li>
+&lt;li>Select your initial focus areas (fitness, meditation, learning, etc.)&lt;/li>
+&lt;/ol>
+&lt;h2 id="setting-up-your-first-goals">Setting Up Your First Goals&lt;/h2>
+&lt;p>Break down your larger goals into manageable daily tasks:&lt;/p></description></item><item><title>Hugo Front Matter 🦉</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/hugo-front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/hugo-front-matter/</guid><description>Hugo allows you to add front matter in yaml, toml, or json to your content files. Read on to know more about predefined and user-defined front matter variables.</description></item><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/markdown-cheat-sheet/</guid><description>&lt;h1 id="markdown-cheat-sheet">Markdown Cheat Sheet&lt;/h1>
+&lt;p>Hugo has excellent Markdown support out of the box. By default, Hugo uses the &lt;a href="https://github.com/yuin/goldmark/" target="_blank" rel="noopener">Goldmark Markdown processor&lt;/a> which is fully CommonMark-compliant. See the &lt;a href="https://gohugo.io/getting-started/configuration-markup/" target="_blank" rel="noopener">configuration instructions&lt;/a> to learn more about the extensions you can configure.&lt;/p>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>You can refer to the table below for an overview of basic markdown syntax:&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>TASK&lt;/th>
+ &lt;th>MARKDOWN SYNTAX&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Heading 1&lt;/td>
+ &lt;td>&lt;code>#&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Heading 2&lt;/td>
+ &lt;td>&lt;code>##&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Heading 3&lt;/td>
+ &lt;td>&lt;code>###&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Italics&lt;/td>
+ &lt;td>&lt;code>*italics*&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Bold&lt;/td>
+ &lt;td>&lt;code>**Bold**&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Strike&lt;/td>
+ &lt;td>&lt;code>~~strike~~&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Blockquote&lt;/td>
+ &lt;td>&lt;code>&amp;gt;&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Links&lt;/td>
+ &lt;td>&lt;code>[link name](https://link.com)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Images&lt;/td>
+ &lt;td>&lt;code>![Image name](image.png)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Unordered list&lt;/td>
+ &lt;td>&lt;code>* List item&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Ordered list&lt;/td>
+ &lt;td>&lt;code>1. List item&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Inline Code&lt;/td>
+ &lt;td>&lt;!-- raw HTML omitted -->`insert code here`&lt;!-- raw HTML omitted -->&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>{.table .table-sm .table-striped .table-hover}&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="headings">Headings&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span># Heading 1
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">## Heading 2
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">### Heading 3
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#### Heading 4
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">##### Heading 5
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">###### Heading 6
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h1 id="heading-1">Heading 1&lt;/h1>
+&lt;h2 id="heading-2">Heading 2&lt;/h2>
+&lt;h3 id="heading-3">Heading 3&lt;/h3>
+&lt;h4 id="heading-4">Heading 4&lt;/h4>
+&lt;h5 id="heading-5">Heading 5&lt;/h5>
+&lt;h6 id="heading-6">Heading 6&lt;/h6>
+&lt;hr>
+&lt;h2 id="lists">Lists&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">*&lt;/span> Unordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">1.&lt;/span> Ordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">2.&lt;/span> Ordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">3.&lt;/span> Ordered item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [ ]&lt;/span> Task item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [x]&lt;/span> Checked Task item
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">- [ ]&lt;/span> Task item
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Unordered item&lt;/li>
+&lt;li>Unordered item&lt;/li>
+&lt;li>Unordered item&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>Ordered item&lt;/li>
+&lt;li>Ordered item&lt;/li>
+&lt;li>Ordered item&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> Task item&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Checked Task item&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Task item&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="format">Format&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>**Bold**
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-style:italic">*Italic*&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">u&lt;/span>&amp;gt;Underline&amp;lt;/&lt;span style="color:#f92672">u&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">sup&lt;/span>&amp;gt;Superscript&amp;lt;/&lt;span style="color:#f92672">sup&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">sub&lt;/span>&amp;gt;Subscript&amp;lt;/&lt;span style="color:#f92672">sub&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#f92672">mark&lt;/span>&amp;gt;Highlight&amp;lt;/&lt;span style="color:#f92672">mark&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">`Inline code`&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">~~Strikethrough~~&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[&lt;span style="color:#f92672">Hyperlink&lt;/span>](&lt;span style="color:#a6e22e">http://example.com&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Image&lt;/span>](&lt;span style="color:#a6e22e">placeholder-50-09f-fff.png&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{ .img-fluid }
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>Bold&lt;/strong>&lt;/p></description></item><item><title>Privacy Policy</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/privacy-policy/</guid><description>&lt;h1 id="privacy-policy">Privacy Policy&lt;/h1>
+&lt;p>&lt;strong>TL;DR&lt;/strong>: We do not use cookies and we do not collect any personal data.&lt;/p>
+&lt;h2 id="website-visitors">Website visitors&lt;/h2>
+&lt;ul>
+&lt;li>No personal information is collected.&lt;/li>
+&lt;li>No information is stored in the browser.&lt;/li>
+&lt;li>No information is shared with, sent to or sold to third-parties.&lt;/li>
+&lt;li>No information is shared with advertising companies.&lt;/li>
+&lt;li>No information is mined and harvested for personal and behavioral trends.&lt;/li>
+&lt;li>No information is monetized.&lt;/li>
+&lt;/ul>
+&lt;h2 id="information-we-collect-and-what-we-use-it-for">Information we collect and what we use it for&lt;/h2>
+&lt;p>The server hosting this site can collect the following information:&lt;/p></description></item><item><title>Security Best Practices 🔒</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/security-best-practices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/page/security-best-practices/</guid><description>&lt;h1 id="security-best-practices">Security Best Practices&lt;/h1>
+&lt;p>Improve code health of your web page following these best practices.&lt;/p>
+&lt;h2 id="use-https">Use HTTPS&lt;/h2>
+&lt;p>All websites should be protected with HTTPS, even ones that don&amp;rsquo;t handle sensitive data. HTTPS prevents intruders from tampering with or passively listening in on the communications between your site and your users.&lt;/p>
+&lt;h2 id="external-links">External Links&lt;/h2>
+&lt;p>When you link to a page on another site using the target=&amp;quot;_blank&amp;quot; attribute, you can expose your site to performance and security issues:&lt;/p></description></item><item><title>Sobre</title><link>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/about.pt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ahmedomuharram.github.io/hugo-mock-landing-page-autodeployed/about.pt/</guid><description>&lt;h1 id="sobre-nós">Sobre nós&lt;/h1>
+&lt;p>Feito com ❤️ pela &lt;a href="https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors" target="_blank" rel="noopener">equipa&lt;/a> &lt;em>Hugo Bootstrap Theme&lt;/em>.&lt;/p></description></item></channel></rss>
