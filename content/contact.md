@@ -16,4 +16,4 @@ menu:
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-muharram)
 
-- [Open an issue](https://github.com/ahmedomuharram/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
+- [Open an issue here](https://github.com/ahmedomuharram/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
