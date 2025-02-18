@@ -48,3 +48,6 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[params.carouselHomepage]
+  enable = false
