@@ -13,7 +13,7 @@ Motimate is a gamified habit tracking and motivation platform that helps you tra
 - Smart Features: Personalized notifications, detailed progress analytics, and AI-driven content suggestions to help you stay motivated and consistent with your goals.
 
 ## How to use
-View at [https://ahmedomuharram.github.io/hugo-mock-landing-page-domain-name/](https://ahmedomuharram.github.io/hugo-mock-landing-page-domain-name/)
+View at [motimate.cfd](http://motimate.cfd)
 
 ## Workflow Auto Deployment
 
