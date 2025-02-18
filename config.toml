@@ -48,3 +48,6 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+  [[module.imports]]
+    path = "github.com/filipecarneiro/hugo-bootstrap-theme"
+
