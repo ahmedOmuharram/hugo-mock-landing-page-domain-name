@@ -1,6 +1,20 @@
 <!doctype html>
 <html lang="{{ .Language.LanguageCode | default site.Language.LanguageCode }}">
-  {{ $ctx := merge . (dict "Sites" (dict "Default" .Site)) }}
+  {{ $ctx := dict 
+       "Title" .Title 
+       "Description" .Description 
+       "Summary" .Summary 
+       "Permalink" .Permalink 
+       "Language" .Language 
+       "Site" .Site 
+       "Params" .Params 
+       "Kind" .Kind 
+       "Scratch" .Scratch 
+       "Content" .Content 
+       "Date" .Date 
+       "Lastmod" .Lastmod 
+       "Sites" (dict "Default" .Site)
+  }}
   {{ partial "head/head.html" $ctx }}
   {{ if eq .Kind "home" -}}
       {{ .Scratch.Set "class" "home" -}}
