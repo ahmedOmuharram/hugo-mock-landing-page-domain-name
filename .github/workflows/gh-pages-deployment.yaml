@@ -24,14 +24,14 @@ jobs:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       # Step to fetch Hugo modules (themes, etc.)
-      - name: 🧩 Fetch Hugo Modules
-        run: hugo mod get
-
       - name: 🛠️ Initialize Hugo Environment
         uses: peaceiris/actions-hugo@v2.6.0
         with:
           hugo-version: "0.123.4"
           extended: true
+
+      - name: 🧩 Fetch Hugo Modules
+        run: hugo mod get
 
       - name: 🏗️ Compile Hugo Static Files
         run: hugo -D --gc --minify
