@@ -6,6 +6,7 @@ copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"htt
 timeZone = 'Europe/London'
 
 # Multilingual
+languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
