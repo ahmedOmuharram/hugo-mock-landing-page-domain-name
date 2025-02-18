@@ -1,4 +1,4 @@
-baseURL = 'https://ahmedomuharram.github.io/hugo-mock-landing-page-domain-name/'
+baseURL = 'http://motimate.cfd/'
 title = "Motimate"
 author = "Ahmed Muharram"
 copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed | Made by Ahmed Muharram, Fall 2025"
