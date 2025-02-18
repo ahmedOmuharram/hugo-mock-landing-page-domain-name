@@ -1,5 +1,5 @@
 # Motimate
-Mock landing page for CIS 3500 at the University of Pennsylvania.
+Autodeployed mock landing page for CIS 3500 at the University of Pennsylvania.
 
 ## About
 Motimate is a gamified habit tracking and motivation platform that helps you transform your goals into achievements. The platform combines several key features:
